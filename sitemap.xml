@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://laity.cn/posts/eeea93b8/</loc>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://laity.cn/TEST/index.html</loc>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://laity.cn/about/index.html</loc>
     
     <lastmod>2023-10-03</lastmod>
@@ -55,6 +73,20 @@
   </url>
 
   
+  <url>
+    <loc>https://laity.cn/tags/%E9%9A%8F%E6%9C%BA/</loc>
+    <lastmod>2023-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://laity.cn/categories/%E9%9A%8F%E8%AE%B0/</loc>
+    <lastmod>2023-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
